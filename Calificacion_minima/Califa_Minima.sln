@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Califa_Minima", "Califa_Minima\Califa_Minima.csproj", "{361FE670-0CD9-4D75-9D1F-5344219D172B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361FE670-0CD9-4D75-9D1F-5344219D172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361FE670-0CD9-4D75-9D1F-5344219D172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361FE670-0CD9-4D75-9D1F-5344219D172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361FE670-0CD9-4D75-9D1F-5344219D172B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF519B3D-91C1-47F7-AF7F-53DF890DD2F2}
+	EndGlobalSection
+EndGlobal
